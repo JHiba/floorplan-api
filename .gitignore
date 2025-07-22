@@ -1,0 +1,16 @@
+# Ignore all PNG and MAT files by default
+*.png
+*.mat
+
+!52.png
+!3190.png
+!2285.png
+!52.mat
+!3190.mat
+!2285.mat
+
+floorplan_pngs/
+venv/
+__pycache__/
+*.pyc
+.env
